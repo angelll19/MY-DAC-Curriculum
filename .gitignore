@@ -3,6 +3,7 @@
 .DS_Store/
 DAC-009_Hands_On_SQL_Tutorial
 DAC-016_Internal_Projects
+.DS_Store
 additional/
 DAC-006_Machine_Learning/datasets/*.csv
 .venv/
